@@ -48,6 +48,7 @@ echo "Installation of laptop software"
 
 list=(
 tlp
+broadcom-wl
 )
 
 count=0
