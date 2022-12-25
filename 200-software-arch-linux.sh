@@ -55,6 +55,7 @@ func_category() {
 func_category Accessories
 
 list=(
+plank
 variety
 )
 
@@ -70,7 +71,6 @@ done
 func_category Development
 
 list=(
-atom
 meld
 sublime-text-4
 )
@@ -104,6 +104,7 @@ done
 func_category Internet
 
 list=(
+brave-bin
 chromium
 qbittorrent
 )
@@ -135,7 +136,6 @@ done
 func_category Office
 
 list=(
-evince
 )
 
 count=0
