@@ -52,8 +52,6 @@ sublime-text-4
 flameshot
 meld
 the_platinum_searcher-bin
-telegram-desktop
-discord
 simplescreenrecorder
 scrot
 )
